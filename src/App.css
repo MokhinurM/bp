@@ -1,0 +1,31 @@
+.title {
+  font-size: 46px;
+  font-weight: normal;
+}
+
+.mo {
+  opacity: 0.7;
+  font-weight: normal;
+  font-size: 22px;
+}
+
+a:hover {
+  text-decoration: underline !important;
+}
+.btn {
+  text-decoration: none !important;
+}
+
+img {
+  width: 40px;
+  height: 40px;
+}
+footer {
+  grid-template-columns: 0.8fr 1fr 1fr 1fr;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 20px;
+}
